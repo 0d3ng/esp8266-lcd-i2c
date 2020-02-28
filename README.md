@@ -13,3 +13,12 @@ Untuk lebih detail pemasangan kabel dapat dilihat pada gambar di bawah
 ![](esp8266-lcd-i2c.png)
 
 Sementara jika ingin mengunduh format fritzing dapat diunduh di [esp8266-lcd-i2c.fzz](esp8266-lcd-i2c.fzz)
+
+## Tabel skematik
+Untuk lebih jelaskan dapat dilihat pada tabel di bawah ini
+| ESP8266 Amica | LCD I2C                            |
+|---------------|------------------------------------|
+| Vin           | GND                                |
+| GND           | Hijau                              |
+| D1            | SCL                                |
+| D2            | SDA                                |
